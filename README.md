@@ -1,3 +1,7 @@
+
+# TVDiag_fuxian
+关于TVDiag论文的复现
+
 # TVDiag
 
 ### TVDiag: A Task-oriented and View-invariant Failure Diagnosis Framework with Multimodal Data
